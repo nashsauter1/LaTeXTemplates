@@ -1,4 +1,4 @@
-PWD /Users/nashsauter/Academia/@TemplateBioethics
+PWD /Users/nashsauter/Academia/LatexTemplates/Bioethics
 INPUT /usr/local/texlive/2020/texmf.cnf
 INPUT /usr/local/texlive/2020/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt
@@ -22,6 +22,10 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/mathptmx.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/mathptmx.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/blindtext/blindtext.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/blindtext/blindtext.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/xspace.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/xspace.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 INPUT paper.aux

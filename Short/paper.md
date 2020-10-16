@@ -16,6 +16,9 @@ header-includes:
   - \usepackage{hyperref}
   - \linespread{1.15}
   - \pagenumbering{gobble}
+  - \usepackage{blindtext}
+  - \raggedright
+  - \setlength\parindent{0.5in}
 ---
 
-Text here.
+\Blindtext

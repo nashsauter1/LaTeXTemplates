@@ -27,13 +27,14 @@ header-includes:
   - \doublespacing
   - \setlength\RaggedRightParindent{0.5in}
   - \addtolength{\skip\footins}{2pc plus 5pt}
-  - \RaggedRight
+  - \usepackage{blindtext}
 ---
+
 \pagenumbering{gobble}
 \newpage
 \pagenumbering{arabic}
 
 # Introduction
-Text goes here.
+\Blindtext
 
 \newpage

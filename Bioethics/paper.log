@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  13 OCT 2020 23:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  16 OCT 2020 11:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -83,28 +83,51 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
 LaTeX Info: Redefining \hbar on input line 50.
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count178
+\c@Blindtext=\count179
+\c@blind@countparstart=\count180
+\blind@countxx=\count181
+\blindtext@numBlindtext=\count182
+\blind@countyy=\count183
+\c@blindlist=\count184
+\c@blindlistlevel=\count185
+\c@blindlist@level=\count186
+\blind@listitem=\count187
+\c@blind@listcount=\count188
+\c@blind@levelcount=\count189
+\blind@mathformula=\count190
+\blind@Mathformula=\count191
+\c@blind@randomcount=\count192
+\c@blind@randommax=\count193
+\c@blind@pangramcount=\count194
+\c@blind@pangrammax=\count195
 ) (/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count178
+\l__kernel_color_stack_int=\count196
 \l__pdf_internal_box=\box45
 ) (./paper.aux)
 \openout1 = `paper.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 11.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
@@ -145,20 +168,20 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 \big@size=\dimen143
 [1
 
-{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./paper.aux) ) 
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] (./paper.aux) ) 
 Here is how much of TeX's memory you used:
- 1012 strings out of 480608
- 15578 string characters out of 5903631
- 254854 words of memory out of 5000000
- 16958 multiletter control sequences out of 15000+600000
+ 1192 strings out of 480608
+ 18546 string characters out of 5903631
+ 263556 words of memory out of 5000000
+ 17130 multiletter control sequences out of 15000+600000
  534221 words of font info for 27 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,4n,34p,154b,90s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,4n,34p,154b,110s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on paper.pdf (1 page, 14131 bytes).
+Output written on paper.pdf (2 pages, 16095 bytes).
 PDF statistics:
- 13 PDF objects out of 1000 (max. 8388607)
- 8 compressed objects within 1 object stream
+ 16 PDF objects out of 1000 (max. 8388607)
+ 10 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

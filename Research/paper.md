@@ -17,10 +17,12 @@ header-includes:
   - \usepackage{CormorantGaramond}
   - \usepackage{hyperref}
   - \doublespacing
+  - \pagenumbering{gobble}
+  - \usepackage{blindtext}
 ---
 
 # Introduction
-Text begins here.
+\Blindtext
 
 \newpage
 \pagenumbering{gobble}

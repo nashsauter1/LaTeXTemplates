@@ -14,6 +14,7 @@ header-includes:
   - \usepackage{indentfirst}
   - \usepackage{CormorantGaramond}
   - \usepackage{hyperref}
+  - \usepackage{microtype}
   - \linespread{1.15}
   - \pagenumbering{gobble}
   - \usepackage{blindtext}

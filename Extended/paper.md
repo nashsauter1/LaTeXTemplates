@@ -20,12 +20,14 @@ header-includes:
   - \usepackage{ragged2e}
   - \usepackage{fancyhdr}
   - \usepackage{lastpage}
+  - \usepackage{microtype}
   - \pagestyle{fancy}
   - \fancyhf{}
   - \rhead{Sauter \thepage}
   - \renewcommand{\headrulewidth}{0pt}
   - \doublespacing
   - \setlength\RaggedRightParindent{0.5in}
+  - \setlength{\RaggedRightRightskip}{0pt plus 2.8em}
   - \addtolength{\skip\footins}{2pc plus 5pt}
   - \usepackage{blindtext}
 ---

@@ -26,6 +26,13 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/blindtext/blindtext.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/blindtext/blindtext.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/xspace.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/xspace.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/microtype/microtype.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/microtype/microtype.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/microtype/microtype.cfg
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/microtype/microtype.cfg
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/microtype/microtype.cfg
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 INPUT paper.aux
@@ -34,6 +41,8 @@ OUTPUT paper.aux
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/microtype/mt-ptm.cfg
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/microtype/mt-ptm.cfg
 OUTPUT paper.pdf
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm

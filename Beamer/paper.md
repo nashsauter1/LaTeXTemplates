@@ -1,7 +1,7 @@
 ---
 title: Presentation
 author: Nash Sauter
-theme: PaloAlto
+theme: Hannover
 colortheme: spruce
 ---
 

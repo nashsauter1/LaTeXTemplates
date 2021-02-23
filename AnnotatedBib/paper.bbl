@@ -1,0 +1,126 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{buys2012}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b04b8794b825fe3473f2f9a7736f1049}{%
+           family={Buys},
+           familyi={B\bibinitperiod},
+           given={Laurie},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=099390bf9d877d39e86c5c184be0243c}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={Evonne},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5d4299188165d570a2f75e7ed63b7cae}{%
+           family={{van Megen}},
+           familyi={v\bibinitperiod},
+           given={Kimberley},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{98bde7640f29dc57b2a8878924c86f1d}
+      \strng{fullhash}{336ec51016ef3d251110424d6fea0a8a}
+      \strng{bibnamehash}{336ec51016ef3d251110424d6fea0a8a}
+      \strng{authorbibnamehash}{336ec51016ef3d251110424d6fea0a8a}
+      \strng{authornamehash}{98bde7640f29dc57b2a8878924c86f1d}
+      \strng{authorfullhash}{336ec51016ef3d251110424d6fea0a8a}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1436-3798, 1436-378X}
+      \field{journaltitle}{Regional Environmental Change}
+      \field{month}{3}
+      \field{number}{1}
+      \field{shorttitle}{Conceptualising Climate Change in Rural {{Australia}}}
+      \field{title}{Conceptualising Climate Change in Rural {{Australia}}: Community Perceptions, Attitudes and (in)Actions}
+      \field{volume}{12}
+      \field{year}{2012}
+      \field{pages}{237\bibrangedash 248}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1007/s10113-011-0253-6
+      \endverb
+      \verb{file}
+      \verb /Users/nashsauter/Zotero/storage/Q7FTTEIJ/Buys et al. - 2012 - Conceptualising climate change in rural Australia.pdf
+      \endverb
+    \endentry
+    \entry{searle2010}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cac56ec0478f7498abf8c82ce6495630}{%
+           family={Searle},
+           familyi={S\bibinitperiod},
+           given={Kristina},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=db5f13287a7f6028dbcaeedf58af02c4}{%
+           family={Gow},
+           familyi={G\bibinitperiod},
+           given={Kathryn},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{3353e969e3452c799585e905ea834795}
+      \strng{fullhash}{3353e969e3452c799585e905ea834795}
+      \strng{bibnamehash}{3353e969e3452c799585e905ea834795}
+      \strng{authorbibnamehash}{3353e969e3452c799585e905ea834795}
+      \strng{authornamehash}{3353e969e3452c799585e905ea834795}
+      \strng{authorfullhash}{3353e969e3452c799585e905ea834795}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1756-8692}
+      \field{journaltitle}{International Journal of Climate Change Strategies and Management}
+      \field{month}{11}
+      \field{number}{4}
+      \field{title}{Do Concerns about Climate Change Lead to Distress?}
+      \field{volume}{2}
+      \field{year}{2010}
+      \field{pages}{362\bibrangedash 379}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1108/17568691011089891
+      \endverb
+      \verb{file}
+      \verb /Users/nashsauter/Zotero/storage/JIN3QLMD/Searle and Gow - 2010 - Do concerns about climate change lead to distress.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

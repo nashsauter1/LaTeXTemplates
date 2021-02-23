@@ -1,0 +1,17 @@
+[0] Config.pm:304> INFO - This is Biber 2.14
+[0] Config.pm:307> INFO - Logfile is 'paper.blg'
+[76] biber-darwin:322> INFO - === Tue Feb 23, 2021, 01:54:25
+[97] Biber.pm:415> INFO - Reading 'paper.bcf'
+[210] Biber.pm:943> INFO - Found 2 citekeys in bib section 0
+[224] Biber.pm:4256> INFO - Processing section 0
+[224] Utils.pm:75> INFO - Globbing data source 'samplelibrary.bib'
+[224] Utils.pm:91> INFO - Globbed data source 'samplelibrary.bib' to samplelibrary.bib
+[247] Biber.pm:4455> INFO - Looking for bibtex format file 'samplelibrary.bib' for section 0
+[249] bibtex.pm:1653> INFO - LaTeX decoding ...
+[258] bibtex.pm:1471> INFO - Found BibTeX data source 'samplelibrary.bib'
+[321] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[322] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[322] Biber.pm:4084> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[322] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[327] bbl.pm:652> INFO - Writing 'paper.bbl' with encoding 'UTF-8'
+[330] bbl.pm:755> INFO - Output to paper.bbl

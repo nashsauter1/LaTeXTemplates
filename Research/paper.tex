@@ -11,23 +11,35 @@
 \usepackage{lastpage}
 \usepackage{microtype}
 \usepackage{blindtext}
+\usepackage{indentfirst}
 \usepackage[margin=1in]{geometry}
 \usepackage[american]{babel}
 \usepackage{csquotes}
-\usepackage[style=mla]{biblatex}
+\usepackage[authordate,backend=biber]{biblatex-chicago}
+\usepackage{url}
+\urlstyle{same}
 \addbibresource{library.bib}
 \pagestyle{fancy}
 \fancyhf{}
-\rhead{Title \thepage}
+\rhead{Short Title \thepage}
 \setlength{\headheight}{15pt}
 \linespread{2}
 \raggedright{}
 \setlength\parindent{0.5in}
+\renewcommand{\headrulewidth}{0pt}
+\addtolength{\skip\footins}{2pc plus 5pt}
 
 \begin{document}
 \maketitle
+\pagenumbering{gobble}
+\newpage
+\pagenumbering{arabic}
+
+\section*{Introduction}
 
 
 
-% \printbibliography{}
+% \newpage
+% \center{Bibliography}
+% \printbibliography[heading=none]{}
 \end{document}
